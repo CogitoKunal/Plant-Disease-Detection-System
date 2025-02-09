@@ -1,7 +1,7 @@
 # 🌱 Plant Disease Detection System  
 
 ## 📌 Overview  
-The ****Plant Disease Detection System** is an AI-powered solution designed to identify plant diseases using **deep learning**. The model is trained on an extensive dataset to detect diseases in crops and provide insights for **sustainable agriculture**.  
+The **Plant Disease Detection System** is an AI-powered solution designed to identify plant diseases using **deep learning**. The model is trained on an extensive dataset to detect diseases in crops and provide insights for **sustainable agriculture**.  
 
 ## 🚀 Features  
 - **Deep Learning Model** trained with CNN for accurate disease classification.  
